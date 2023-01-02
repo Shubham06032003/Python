@@ -1,0 +1,39 @@
+					Tue Jul 26 10:15:06 2022
+
+items		  Price
+dal			120
+rice			100
+momos			60
+
+Total			280
+
+
+
+
+
+					Tue Jul 26 10:15:23 2022
+
+items		  Price
+dal			120
+rice			100
+pizza			230
+
+Total			450
+
+
+
+
+
+					Wed Oct 12 11:51:22 2022
+
+items		  Price
+rice			100
+dal			250
+xl			12
+
+Total			362
+
+
+
+
+
